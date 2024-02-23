@@ -1,0 +1,84 @@
+Crimes,January,February,March,April,May,June,July,August,September,October,November,December
+Murder,1,0,0,2,1,0,0,0,0,0,0,0
+Homicide,0,1,0,0,0,0,0,1,0,1,0,2
+Physical Injury,32,14,17,19,17,24,16,13,7,3,5,7
+Rape,2,3,3,3,4,2,2,1,1,0,0,1
+Rape w/Homicide,0,0,0,0,0,0,0,0,0,0,0,0
+Kidnapping w/Homicide,0,0,0,0,0,0,0,0,0,0,0,0
+Kidnapping w/Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery,4,2,0,2,0,1,3,1,2,1,3,4
+Robbery w/Homicide,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery w/Rape,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery w/Serious Physical Injuries,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery w/Arson,0,0,0,0,0,0,0,0,0,0,0,0
+Robbery in Band,0,0,0,0,0,0,0,0,0,0,0,0
+Theft,41,16,19,33,21,20,15,12,6,5,11,3
+Carnapping MV,0,0,0,0,0,0,0,0,0,0,0,0
+Carnapping MC,3,2,3,2,4,4,4,0,4,1,2,0
+Carnapping Occupant is Killed/Raped MV,0,0,0,0,0,0,0,0,0,0,0,0
+Carnapping Occupant is Killed/Raped MC,0,0,0,0,0,0,0,0,0,0,0,0
+Arson w/Homicide,0,0,0,0,0,0,0,0,0,0,0,0
+Acts of Lasciviousness,1,1,1,0,0,3,0,2,1,0,1,1
+Adultery,0,0,0,0,0,0,0,0,0,0,0,0
+Alarms & Scandals,23,8,10,20,19,14,7,4,6,5,0,2
+Corruption of Public Official,0,0,0,0,0,0,0,0,0,0,0,0
+Direct Assaults,0,0,1,1,0,0,1,1,0,2,0,1
+Grave Threats,0,1,1,0,2,0,0,1,0,0,0,0
+Frust/Attemp Anti-Child Abuse Law,0,0,0,1,0,1,0,0,0,0,0,0
+Frust/Attemp Anti-VAWC Act 2004,0,0,0,0,0,0,0,0,0,0,0,0
+Frust/Attemp Homicide,1,1,0,2,1,1,0,0,2,0,2,3
+Frust/Attemp Parricide,0,0,0,0,0,0,0,0,0,0,0,0
+Inducing Minor to Abandon Home,0,0,0,0,0,0,0,0,0,0,0,0
+Injuries in Tumultuous Affray,0,0,0,0,0,0,0,0,0,0,0,0
+Libel,0,0,1,1,0,1,0,0,0,0,0,0
+Libelous Remarks,1,0,0,0,0,0,0,0,0,0,0,0
+Light Coercions,0,0,0,0,0,0,0,0,0,0,0,0
+Light Threats,15,8,19,14,17,9,9,3,2,1,0,0
+Malicious Mischief,7,5,5,7,5,5,4,3,1,1,1,2
+Frust/Attemp Murder,3,0,2,2,2,0,0,3,0,0,0,0
+Other Deceits,2,5,2,4,3,3,0,1,1,0,0,0
+Other Forms of Arson,0,0,0,0,0,0,0,1,0,0,0,0
+Other Forms of Swindling,0,0,0,0,1,0,0,0,0,0,0,0
+Other Forms of Trespass,1,2,0,4,1,0,0,0,0,0,0,0
+Other Light Threats,0,0,0,0,0,0,0,0,0,1,0,0
+Possession/Use False Treasury/Bank Notes,0,0,0,0,0,0,1,0,0,0,0,0
+Qualified Trespass to Dwelling,0,0,0,0,0,1,0,0,0,0,0,0
+Resisiting Authorities ,1,1,1,0,0,0,0,0,0,2,3,0
+Simple Seduction,0,0,0,0,0,0,0,0,0,0,0,0
+Slander (Oral Defamation),3,1,0,1,0,0,1,0,0,0,0,0
+Swindling (Estafa),1,0,0,2,0,0,0,0,0,0,1,0
+Unjust Vexations,3,4,6,11,3,7,3,0,1,0,1,0
+Frust/Attemp Unjust Vexations,0,0,0,0,0,0,0,0,0,0,0,0
+Using Forged Signature/Seal/Stamp,0,0,0,0,0,0,0,0,0,0,0,0
+Usurpation of Authority/Functions,0,0,0,0,0,0,0,0,0,0,1,0
+RIR Homicide,1,1,2,0,1,0,1,1,2,1,0,2
+RIR Physical Injury,22,12,19,20,16,26,19,19,18,12,13,18
+RIR Damage to Property,37,45,28,29,36,39,31,34,27,24,17,12
+Anti-Child Abuse Law,13,16,14,9,11,12,9,8,2,2,2,2
+Anti-Drunk & Drugged Driving Act 2013,0,0,0,0,0,0,0,0,0,0,0,0
+Anti-Electricity Pilferage Act 1994,0,0,0,0,0,0,0,0,0,0,0,0
+Anti-Gambling Law,0,0,0,0,0,0,1,1,0,0,1,1
+Anti-Photo & Video Voyeurism Act 2009,0,0,1,1,0,0,0,0,0,0,0,0
+Anti-Rabies Act 2007,0,0,0,0,0,0,0,0,0,0,0,0
+Anti-Trafficking in Persons Act 2003,1,0,1,1,0,0,0,0,0,0,0,1
+Anti-VAWC Act 2004,18,19,25,18,10,14,21,12,9,4,4,5
+Bouncing Check Law,0,0,0,0,1,0,1,0,0,0,0,0
+Chain Saw Act 2002,0,0,0,0,0,0,0,0,0,0,0,0
+Cockfighting Law of 1974,0,0,0,0,0,0,0,0,0,0,0,0
+Coconut Preservation Act 2002,0,0,0,0,0,0,0,0,0,0,0,0
+Comp. Dangerous Drugs 2002 Importation,0,0,0,0,0,0,0,0,0,0,0,0
+Comp. Dangerous Drugs Act 2002,1,1,1,2,1,2,0,0,0,0,0,0
+Comprehensive FA Law,0,0,2,0,0,1,1,3,0,1,4,0
+Illegal Logging,0,0,0,0,0,0,0,0,0,0,0,0
+Illegal Numbers Game,0,0,0,0,0,0,0,0,0,0,0,0
+Illegal Possession of Ammunitions & Explosives,0,0,0,0,0,0,0,0,0,0,0,0
+Illegal Possession of Weapons,0,0,0,0,1,0,0,1,0,1,3,0
+Illegal Practice of Medicine 1959,0,0,0,0,0,0,0,0,0,0,0,1
+Illegal Recruitment,0,0,0,0,0,0,0,0,0,0,0,0
+Intellectual Property Code Amendment,0,0,0,0,0,0,0,0,0,0,0,0
+Law on Reporting Communicable Diseases RA 11332,0,0,0,0,0,0,0,0,0,0,0,0
+Obstruction of Prosec. Criminals,0,0,0,0,0,0,0,0,0,0,0,0
+Omnibus Election Code of the Philippines,0,0,0,0,0,0,0,0,0,0,0,0
+Prohibited Acts on Petroleum,0,0,0,0,0,0,0,0,0,0,0,0
+Sexual Harrasment Act 1995 ,0,0,0,0,0,0,1,0,0,0,0,0
+Viol. Magna Carta for Diabled Persons,0,0,0,0,0,0,0,0,0,0,0,0
